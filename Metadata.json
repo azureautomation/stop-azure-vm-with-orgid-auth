@@ -1,0 +1,20 @@
+{
+    "Author": "russellmccloy",
+    "ContentSize": 943,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-vm-with-orgid-auth/master/MyStopAzureVM.ps1",
+    "DownloadCount": 930,
+    "Id": "Stop-Azure-VM-with-OrgID-41a79d91",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 454,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-12-15T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script allows you to stop an AzureVM.\u00a0It uses\u00a0OrgID auth instead of a self signed certificate from your VM (Which was apparently the old way of doing this)This script is not dependent on any other custom power shell scripts.",
+    "Title": "Stop Azure VM with OrgID auth",
+    "UpdatedDate": "2014-12-15T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-vm-with-orgid-auth",
+    "UserTags": "Powershell, scheduled jobs, Azure Automation"
+}
